@@ -9,6 +9,15 @@ body {
     font-weight: 800;
 }
 
+.imageInn {
+  width:125px;
+  height: 125px; 
+}
+
+.hoverImg {
+  width:125px;
+  height: 125px;
+}
 
 .imageBox {
   position: relative;
